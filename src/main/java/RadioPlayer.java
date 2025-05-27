@@ -5,8 +5,9 @@ public class RadioPlayer implements Player {
    //// protected; both private and public at the same time!!
     protected boolean onOff;
     protected double[] stationList;
-    protected int volume;
     protected double station;
+    protected int volume;
+    
     
     protected int stationIndex;
 
